@@ -1,12 +1,12 @@
 baseURL = "https://khubo.github.io"
 languageCode = "en-us"
-title = "B-Logs"
+title = "B-Log"
 theme = "yinyang"
 DefaultContentLanguage = "en"
 publishDir = "docs"
 
 [author]
-  name = "B-logs"
+  name = "khubo"
   homepage = "https://khubo.github.io/"
 
 [languages]
