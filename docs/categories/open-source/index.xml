@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Source on B-Logs</title>
+    <link>https://khubo.github.io/categories/open-source/</link>
+    <description>Recent content in Open-Source on B-Logs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://khubo.github.io/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open-Source is not cool!</title>
+      <link>https://khubo.github.io/posts/opensourcenotcool/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://khubo.github.io/posts/opensourcenotcool/</guid>
+      <description>Developers love (talking about?) open source. The popularity of GitHub, the infinite number of modules in package registries, and open source projects are all indicators of this. I, myself, have contributed and tried to contribute to open-source projects. I believe that&amp;rsquo;s how the world is supposed to work. Humans should share knowledge and collectively build stuff, enabling each other.
+It seems developers aren&amp;rsquo;t the only ones in love with Open source though.</description>
+    </item>
+    
+  </channel>
+</rss>
